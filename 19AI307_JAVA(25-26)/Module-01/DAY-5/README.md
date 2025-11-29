@@ -22,9 +22,9 @@ To write a Java program that finds the absolute value of a given number using th
 ## PROGRAM:
  ```
 /*
-Program to implement a Strings and Math Function using Java
-Developed by: ARSHITHA MS
-Register Number:212223240015
+Program to implement variables and Operators using Java
+Developed by: SHAIK SAMREEN
+Register Number:212223110047
 */
 ```
 
@@ -51,6 +51,7 @@ public class demo
 
 ## RESULT:
 Therefore the program successfully reads a number and calculates its absolute value.
+
 
 
 

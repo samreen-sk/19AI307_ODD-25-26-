@@ -27,8 +27,8 @@ To write a Java program that demonstrates the use of variables, data types, oper
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Arshitha MS
-Register Number:212223240015
+Developed by: SHAIK SAMREEN
+Register Number:212223110047
 */
 ```
 
@@ -60,6 +60,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
+
 
 
 

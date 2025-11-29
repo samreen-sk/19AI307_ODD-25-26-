@@ -30,7 +30,7 @@ To write a Java program that reads a string from the user, compresses it using G
 /*
 Program to implement a Serialization and Deserialization using Java
 Developed by: Arshitha MS
-RegisterNumber:212223240015  
+RegisterNumber:212223110047  
 */
 ```
 

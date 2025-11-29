@@ -30,8 +30,8 @@ To develop a Java program that decides whether a vehicle can move or must stop b
   ```
 /*
 Program to implement a conditional statement using Java
-Developed by: ARSHITHA MS
-RegisterNumber:  212223240015
+Developed by: SHAIK SAMREEN
+RegisterNumber:  212223110047
 */
 ```
 

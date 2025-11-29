@@ -22,8 +22,8 @@ To write a Java program that demonstrates how a NullPointerException occurs when
   ```
 /*
 Program to implement a conditional statement using Java
-Developed by: ARSHITHA MS
-RegisterNumber:  212223240015
+Developed by: SHAIK SAMREEN
+RegisterNumber:  212223110047
 */
 ```
 
